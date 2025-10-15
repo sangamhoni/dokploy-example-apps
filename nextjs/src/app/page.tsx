@@ -37,7 +37,8 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        <h1>Hello, welcome to Sangam's page.</h1>
+        <h2 className="mb-3 text-2xl font-semibold">>Hello, welcome to Sangam's page.</h2>
+        <br />
         <h2>Fun fact about me: I am 9000 trophies in Clash Royale!</h2>
       </div>
 
